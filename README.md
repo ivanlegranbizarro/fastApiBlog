@@ -1,0 +1,1 @@
+Blog sencillo con autenticación creado con FastApi como una práctica sencilla
